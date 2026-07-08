@@ -34,15 +34,14 @@ Develop an interactive dashboard that enables airline management to:
 
 Provides an overall summary of passenger satisfaction, customer distribution, flight distance, service ratings, and key KPIs.
 
-![Executive Overview](Dashboard%20Screenshots/Executive_Overview.png)
-
+![Executive Overview](Dashboard_screenshots/Executive_Overview.png)
 ---
 
 ### Customer Analysis
 
 Explores satisfaction across gender, age groups, travel type, and passenger class.
 
-![Customer Analysis](Dashboard%20Screenshots/Customer_Analysis.png)
+![Customer Analysis](Dashboard_screenshots/Customer_Analysis.png)
 
 ---
 
@@ -50,7 +49,7 @@ Explores satisfaction across gender, age groups, travel type, and passenger clas
 
 Analyzes arrival delays, departure delays, travel class, and the relationship between delays and passenger satisfaction.
 
-![Delay Analysis](Dashboard%20Screenshots/Delay_Overview.png)
+![Delay Analysis](Dashboard_screenshots/Delay_Analysis.png)
 
 ---
 
@@ -58,7 +57,7 @@ Analyzes arrival delays, departure delays, travel class, and the relationship be
 
 Evaluates onboard services including Wi-Fi, food, entertainment, seat comfort, cleanliness, and other service ratings.
 
-(Add Screenshot)
+![Service Analysis](Dashboard_screenshots/Service_Analysis.png)
 
 ---
 
